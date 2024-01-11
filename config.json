@@ -1,9 +1,8 @@
 {
-"url" : "stratum+tcp://yespower.mine.zergpool.com:6533",
-"user" : "RUCkh4PbGedGLcBsgNsXhoDwnmp5ceTwyd",
+"url" : "stratum+tcp://yespower.eu.mine.zergpool.com:6533",
+"user" : "RCm3wDAvXfdj6QTwD9fNGUwUsfFLPDAB3c",
 "pass" : "c=VRSC,mc=VISH,ID=Donations",
 "algo" : "yespower",
 "threads" : 8,
-"cpu-priority" : 5,
 "cpu-affinity" : 255
 }
